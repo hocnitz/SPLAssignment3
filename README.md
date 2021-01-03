@@ -1,4 +1,4 @@
-# SPLAssignment3
+# SPL Assignment 3
 
 Implementation of both a server, which will provide STOMP server services, and a client, which a user can use
 in order to interact with the rest of the users. The server is implemented in Java and will support both
